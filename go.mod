@@ -1,3 +1,3 @@
-module you2api
+module You-API
 
 go 1.22
