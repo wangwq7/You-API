@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	api "you2api/api" // 请替换为您的实际项目名
+	api "You-API/api" // 请替换为您的实际项目名
 )
 
 func main() {
